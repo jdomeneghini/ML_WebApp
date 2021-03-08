@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="" >
+</p>
 
-Machine Learning Web Application - Prevendo valor de venda e aluguel de apartamentos
+## **Machine Learning Web Application - Prevendo valor de venda e aluguel de apartamentos**
 
 Este projeto se trata de uma web application para prever valores de imóveis, usando um modelo de machine learning.
 
@@ -8,5 +11,5 @@ para o deployment deste app usei o Heroku, uma plataforma em nuvem onde te permi
 
 Neste repositório encontram-se todos os arquivos para a criação deste app, e também um arquivo com o notebook da análise exploratória dos dados antes de criar o algoritmo e efetuar o deploy.
 
-Link para acessar o app: https://predictrealstateprice.herokuapp.com/
+**Link para acessar o app: https://predictrealstateprice.herokuapp.com/**
 
